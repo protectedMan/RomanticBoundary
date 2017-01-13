@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">浪漫边界</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="theme">主题</string>
+    <string name="cancel">取消</string>
+    <string name="done">完成</string>
+    <string name="about_me"></string>
+    <string name="coming_soon">coming...</string>
+    <string name="close">联系我们</string>
+    <string name="setting">设置</string>
+    <string name="fuli">girls</string>
+    <string name="android">Android</string>
+    <string name="ios">iOS</string>
+    <string name="video">休息视频</string>
+    <string name="front">前端</string>
+    <string name="resource">拓展资源</string>
+    <string name="app">App</string>
+    <string name="about">关于</string>
+    <string name="more">瞎推荐</string>
+    <string name="meizhi">Girls</string>
+    <string name="action_save">保存</string>
+    <string name="action_share">分享</string>
+    <string name="BUG_HD_SDK_GENERAL_KEY">2eff159713002fdb82792c1435103bbe</string>
+    <string name="android_auto_update_dialog_title">令人兴奋的新版本(ง •̀_•́)ง</string>
+
+    <string name="android_auto_update_notify_ticker">令人兴奋的新版本(ง •̀_•́)ง</string>
+    <string name="android_auto_update_notify_content">令人兴奋的新版本(ง •̀_•́)ง</string>
+
+    <string name="android_auto_update_dialog_btn_download">立即下载</string>
+    <string name="android_auto_update_dialog_btn_cancel">ri后再说</string>
+
+    <string name="android_auto_update_toast_no_new_update">已经是最新版本</string>
+
+    <string name="android_auto_update_download_progress">正在下载:%1$d%%</string>
+
+    <string name="android_auto_update_dialog_checking">正在检查版本</string>
+    <string name="version_str">浪漫边界 © 2016\n</string>
+</resources>
